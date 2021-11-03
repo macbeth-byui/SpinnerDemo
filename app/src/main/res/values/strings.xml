@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    <string-array name="courses">
+        <item>CSE110</item>
+        <item>CSE111</item>
+        <item>CSE210</item>
+        <item>CSE212</item>
+        <item>CSE310</item>
+    </string-array>
+</resources>
